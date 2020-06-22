@@ -1,0 +1,9 @@
+body {
+  background-color: pink;
+  font-style: oblique;
+}
+#picture {
+  float: right;
+  padding-right: 2.5%;
+  padding-left: 2.5%;
+
